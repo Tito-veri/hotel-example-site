@@ -1,8 +1,8 @@
 {
   "validation": {
-    "valueMissing": "このフィールドを入力してください。",
+    "valueMissing": "このフィールドが入力されていません。",
     "typeMismatch": {
-      "email": "メールアドレスを入力してください。",
+      "email": "メールアドレス。",
       "url": "URLを入力してください。"
     },
     "badInput": "有効な値を入力してください。",
@@ -14,7 +14,7 @@
     "stepMismatch": "有効な値を入力してください。",
     "shoudBeNextDay": "翌日以降の日付を入力してください。",
     "shouldBeThreeMonth": "3ヶ月以内の日付を入力してください。",
-    "mailOrAddressMismatch": "メールアドレスまたはパスワードが違います。",
+    "mailOrAddressMismatch": "メールアドレスもしくははパスワードが違います。",
     "existsMail": "このメールアドレスはすでに登録済みです。",
     "passwordUnmatch": "入力されたパスワードと一致しません。",
     "underTenKb": "ファイルサイズは10KB以下にしてください。",
