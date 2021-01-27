@@ -12,7 +12,7 @@ $(function() {
   const user = getUser(session);
 
   // fetch plan data
-  const url = location.origin + '/data/' + getLocale() + '/plan_data.json?' + Date.now();
+  const url = location.origin + '/hotel-example-site/data/' + getLocale() + '/plan_data.json?' + Date.now();
   $.getJSON(url).done(function(data) {
     let planHtml = '';
     for (let i = 0; i < data.length; i++) {
