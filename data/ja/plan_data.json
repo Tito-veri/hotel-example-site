@@ -13,7 +13,11 @@
   },
   {
     "id": 1,
+<<<<<<< HEAD
     "name": "プレミアムプラン",
+=======
+    "name": "ワンダフルプラン",
+>>>>>>> a3b3765 (ローカルからコミット)
     "roomBill": 10000,
     "minHeadCount": 2,
     "maxHeadCount": 9,
@@ -25,24 +29,42 @@
   },
   {
     "id": 2,
+<<<<<<< HEAD
     "name": "ディナー付きプラン",
     "roomBill": 8500,
     "minHeadCount": 1,
     "maxHeadCount": 4,
     "minTerm": 1,
     "maxTerm": 3,
-    "room": "部屋指定なし",
-    "roomPage": null,
-    "only": "member"
-  },
-  {
-    "id": 3,
+=======
     "name": "お得なプラン",
     "roomBill": 6000,
     "minHeadCount": 1,
     "maxHeadCount": 9,
     "minTerm": 1,
     "maxTerm": 9,
+>>>>>>> a3b3765 (ローカルからコミット)
+    "room": "部屋指定なし",
+    "roomPage": null,
+    "only": "member"
+  },
+  {
+    "id": 3,
+<<<<<<< HEAD
+    "name": "お得なプラン",
+    "roomBill": 6000,
+    "minHeadCount": 1,
+    "maxHeadCount": 9,
+    "minTerm": 1,
+    "maxTerm": 9,
+=======
+    "name": "ディナープラン",
+    "roomBill": 8500,
+    "minHeadCount": 1,
+    "maxHeadCount": 4,
+    "minTerm": 1,
+    "maxTerm": 3,
+>>>>>>> a3b3765 (ローカルからコミット)
     "room": "部屋指定なし",
     "roomPage": null,
     "only": "member"
