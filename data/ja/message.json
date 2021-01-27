@@ -2,19 +2,19 @@
   "validation": {
     "valueMissing": "このフィールドが入力されていません。",
     "typeMismatch": {
-      "email": "メールアドレス。",
+      "email": "正しいメールアドレスを入力してください。",
       "url": "URLを入力してください。"
     },
     "badInput": "有効な値を入力してください。",
     "patternMismatch": "指定されている形式で入力してください。",
     "tooLong": "{}文字以内で入力してください。",
-    "tooShort": "{}文字以上で入力してください。",
+    "tooShort": "{}文字以上でご入力ください。",
     "rangeOverflow": "{}以下の値を入力してください。",
     "rangeUnderflow": "{}以上の値を入力してください。",
     "stepMismatch": "有効な値を入力してください。",
     "shoudBeNextDay": "翌日以降の日付を入力してください。",
     "shouldBeThreeMonth": "3ヶ月以内の日付を入力してください。",
-    "mailOrAddressMismatch": "メールアドレスもしくははパスワードが違います。",
+    "mailOrAddressMismatch": "メールアドレスもしくはパスワードが違います。",
     "existsMail": "このメールアドレスはすでに登録済みです。",
     "passwordUnmatch": "入力されたパスワードと一致しません。",
     "underTenKb": "ファイルサイズは10KB以下にしてください。",
@@ -40,11 +40,11 @@
     "deleteComplete": "退会処理を完了しました。ご利用ありがとうございました。"
   },
   "plans": {
-    "premiumOnly": "❤️プレミアム会員限定❤️",
-    "memberOnly": "会員限定",
+    "premiumOnly": "☆プレミアム会員の方限定❤️",
+    "memberOnly": "会員の方限定",
     "oneAdult": "大人1名{}",
     "minHeadCount": "{}名様から",
-    "reserveLink": "このプランで予約"
+    "reserveLink": "このプランにする"
   },
   "reserve": {
     "planDescLong": "お一人様1泊{}〜、土日は25%アップ。{}名様〜{}名様、最長{}泊",
