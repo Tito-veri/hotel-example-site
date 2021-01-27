@@ -15,11 +15,7 @@
   "author": "Takeshi Kishi",
   "license": "MIT",
   "devDependencies": {
-<<<<<<< HEAD
     "webpack": "^4.44.1",
-=======
-    "webpack": "^4.46.0",
->>>>>>> a3b3765 (ローカルからコミット)
     "webpack-cli": "^3.3.12"
   }
 }
