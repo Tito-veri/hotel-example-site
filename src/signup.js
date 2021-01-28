@@ -20,9 +20,9 @@ $(function() {
     }
 
     // Check password
-    if ($('#password')[0].checkValidity() && $('#password-confirmation')[0].checkValidity()) {
-      if ($('#password').val() !== $('#password-confirmation').val()) {
-        $('#password-confirmation')[0].setCustomValidity(t('validation.passwordUnmatch'));
+    if ($('#password')[0].checkValidity() && $('#password-check')[0].checkValidity()) {
+      if ($('#password').val() !== $('#password-check').val()) {
+        $('#password-check')[0].setCustomValidity(t('validation.passwordUnmatch'));
       }
     }
 
